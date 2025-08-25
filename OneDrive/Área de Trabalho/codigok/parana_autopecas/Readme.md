@@ -1,5 +1,8 @@
 # Análise de Dados da Paraná Auto Peças
 ### Introdução:
+
+![storytelling.jpg(storytelling.jpg)]
+
 Este projeto de análise de dados foi desenvolvido a convite do Kauan, em colaboração com o Everton e eu. O objetivo principal foi analisar o faturamento da Paraná Auto Peças, uma empresa do setor automotivo.
 
 ## Metodologia:
